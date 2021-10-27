@@ -63,7 +63,8 @@ async function kiwifetch() {
     ⠄⢸⣿⣿⣿⣿⣷⣦⣤⣀⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣠⣤⣶⣿⣿⣿⣿⣿
 
         `
-    
+        console.clear()
+        
         console.log(draw)
     }
     catch(e) { 
