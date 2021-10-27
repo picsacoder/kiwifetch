@@ -20,6 +20,19 @@ $ cd kiwifetch
 ```
 
 ```
-$ node app
+$ chmod u+x install.sh
 ```
 
+```
+$ chmod u+x kiwifetch.sh
+```
+
+```
+$ ./install.sh
+```
+
+## 🌹 Using kiwifetch
+
+```
+$ sudo kiwifetch.sh
+```
